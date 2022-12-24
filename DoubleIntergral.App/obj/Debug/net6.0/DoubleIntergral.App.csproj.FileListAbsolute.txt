@@ -1,0 +1,12 @@
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\bin\Debug\net6.0\DoubleIntergral.App.deps.json
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\bin\Debug\net6.0\DoubleIntergral.App.dll
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\bin\Debug\net6.0\DoubleIntergral.App.pdb
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.csproj.AssemblyReference.cache
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.AssemblyInfoInputs.cache
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.AssemblyInfo.cs
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.dll
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\refint\DoubleIntergral.App.dll
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\DoubleIntergral.App.pdb
+C:\Users\Надежда\Desktop\DoubleIntegral\DoubleIntergral.App\obj\Debug\net6.0\ref\DoubleIntergral.App.dll
